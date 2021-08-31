@@ -9,8 +9,9 @@
  
  int main(int argc, char **argv) {
      
-     printf("Haonan Sungit!\n");
+     printf("Haonan Sun!\n");
+     printf("Mathematics")
      
      return 0;
      
-}
+}git
