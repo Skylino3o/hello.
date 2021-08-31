@@ -9,7 +9,7 @@
  
  int main(int argc, char **argv) {
      
-     printf("Hello world!\n");
+     printf("Haonan Sungit!\n");
      
      return 0;
      
